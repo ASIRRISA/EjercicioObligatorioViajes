@@ -1,0 +1,200 @@
+@font-face{
+    src: url("../Fuentes/ballpark.ttf");
+    font-family: "ballpark";
+}
+@font-face{
+    src: url("../Fuentes/dayrom.eot");
+    font-family: "dayrom";
+}
+body{
+    background-color: rgb(223, 213, 202);
+}
+#cabecera{
+    border: transparent;
+    width: 999px;
+    height: 150px;  
+}
+h1{
+    font-family: "ballpark";
+    font-size: 45px;
+}
+#maletin{
+    float: left;
+    width: 10%;
+}
+#menu{
+    border: transparent;
+    width: 500px;
+    height: 20px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 200px;
+}
+#home{
+    display: inline-block;
+    margin-left: 30px;
+}
+#blog{
+    display: inline-block;
+    margin-left: 30px;
+}
+#viaje{
+    display: inline-block;
+    margin-left: 30px;
+}
+#contact{
+    display: inline-block;
+    margin-left: 30px;
+}
+#imagen1{
+    border: transparent;
+    width: 1000px;
+    height: 200px;
+}
+#sanfrancisco{
+    width:1000px;
+    height: 200px;
+    border-radius: 15px;
+}
+#pasion{
+    border: transparent;
+    width: 550px;
+    height: 500px;
+    float: left;
+}
+#reflexion{float: left;
+    position: relative;
+    bottom: 60px;
+    color: darkkhaki;
+    margin-left: 30px;
+    background-color: darkslategrey;
+}
+
+#pinza{
+    width: 10%;
+    float: left;
+}
+h2{
+    font-family: "dayrom";
+}
+#eltiempo{
+    border: transparent;
+    border-radius: 15px;
+    background-color:rgb(95, 93, 93);
+    width: 400px;
+    height: 550px;
+    float: right;
+    margin-right: 330px;
+}
+h3{
+    margin-left: 10px;
+    text-align: center;
+}
+#flecha{
+    float: left;
+    margin-left: -12px;
+    margin-top: 80px;
+}
+#twitter{
+    margin-top: 110px;
+    margin-left: 100px;
+}
+#vimeo{
+    margin-top: 110px;
+    margin-left: 10px;
+}
+#facebook{
+    margin-top: 110px;
+    margin-left: 10px;
+}
+#flickr{
+    margin-top: 110px;
+    margin-left: 10px;
+}
+#footer{
+    border: solid black;
+    width: 1000px;
+    height: 200px;
+    margin-top: 10px;
+}
+#ultimotweet{
+    width: 200px;
+    height: 200px;
+    border: transparent;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 200px;
+    float: left;
+   
+    
+}
+#fotos{
+    width: 300px;
+    height: 200px;
+    border: transparent;
+    display: inline-block;
+    margin-left: 120px;
+    margin-top: 200px;
+    float:none;
+    text-align: center;
+    
+}
+#imagen2{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    margin-left: 30px;
+    padding-left: 1px;
+   
+    }
+#imagen3{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    margin-left: 30px;
+   padding-left: 1px;
+}
+#imagen4{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    margin-left: 30px;
+    padding-left: 1px;
+}
+#imagen5{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    margin-left: 30px;
+    padding-left: 1px;
+}
+#compis{
+    width: 250px;
+    height: 200px;
+    border: transparent;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 340px;
+    float: right;
+    margin-top: 200px;
+}
+br{
+    clear: both;
+}
+hr{
+    border: solid rgb(95, 93, 93) 2px;
+    width: 990px;
+    margin-left: 0px;
+}
+#top{bottom: 13px;
+margin-left: 510px;
+position: relative;
+}
+#cont_7d85a999b1afd548ee1ebba0a5ca5c59{
+    width: 300px;
+    height: 300px;
+}
+footer{
+    position: relative;
+    bottom: 170px;
+}
