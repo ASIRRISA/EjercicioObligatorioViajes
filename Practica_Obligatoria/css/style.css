@@ -84,7 +84,7 @@ h2{
     width: 400px;
     height: 550px;
     float: right;
-    margin-right: 330px;
+    margin-right: 275px;
 }
 h3{
     margin-left: 10px;
@@ -174,7 +174,7 @@ h3{
     border: transparent;
     display: inline-block;
     margin-left: 10px;
-    margin-right: 300px;
+    margin-right: 280px;
     float: right;
     margin-top: 200px;
 }
@@ -185,8 +185,10 @@ hr{
     border: solid rgb(95, 93, 93) 2px;
     width: 990px;
     margin-left: 0px;
+    position: absolute;
+    top: 985px;
 }
-#top{bottom: 13px;
+#top{bottom: -46px;
 margin-left: 510px;
 position: relative;
 }
